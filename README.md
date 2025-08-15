@@ -2,7 +2,7 @@
 # Kay GenAI – No-Code Custom Content Generator
 
 ## Link for Kay GenAI
-[https://app--aether-ai-studio-94ecc2d7.base44.app/](https://app--aether-ai-studio-94ecc2d7.base44.app/)
+[[https://app--aether-ai-studio-94ecc2d7.base44.app/](https://app--aether-ai-studio-94ecc2d7.base44.app/)](https://app--kay-gen-ai-0206c87a.base44.app/)
 
 ## Description
 Kay GenAI is the name given to my AI-powered content generator
@@ -38,7 +38,7 @@ All functionality is handled in **one input box** – simply type your request (
 
 ## How It Works
 1. **Enter a Prompt** – Type what you want (text, image, or code).  
-2. **Or Click “Random Prompt”** – Skip typing and get an AI-generated idea.  
+2. **Or Click “Random Prompt The icon next to "generate”** – Skip typing and get an AI-generated idea.  
 3. **View Output** – The system detects your request type and generates only the relevant output.  
 4. **Upload an Image (Optional)** – The AI will describe what’s in the image.  
 5. **Remove Image** – Delete uploaded images after analysis.  
