@@ -2,7 +2,7 @@
 # Kay GenAI – No-Code Custom Content Generator
 
 ## Link for Kay GenAI
-[[https://app--aether-ai-studio-94ecc2d7.base44.app/](https://app--aether-ai-studio-94ecc2d7.base44.app/)](https://app--kay-gen-ai-0206c87a.base44.app/)
+https://app--kay-gen-ai-0206c87a.base44.app/
 
 ## Description
 Kay GenAI is the name given to my AI-powered content generator
