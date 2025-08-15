@@ -10,7 +10,7 @@ Kay GenAI is the name given to my AI-powered content generator
 Kay GenAI is a **no-code AI-powered content generator** built on **Base44** that can:
 
 - **Generate Text** – Clear, coherent, and contextually relevant to user prompts.  
-- **Generate Images** – Accurate visuals from descriptive prompts with correct style, size, and theme.  
+- **Generate Images** – Accurate visuals from descriptive prompts with correct style, size, and theme.(Only supports JPEG,PNG and JPG)  
 - **Generate Code** – Clean, functional code in any programming language with best practices and inline comments.  
 - **Analyze Uploaded Images** – Detects and describes the contents of an uploaded image.  
 
