@@ -1,5 +1,5 @@
 # AI-Content-Generator
-# Kay GenAI – No-Code Custom Content Generator
+# Kay GenAI – AI Content Generator
 
 ## Link for Kay GenAI
 https://app--kay-gen-ai-0206c87a.base44.app/
